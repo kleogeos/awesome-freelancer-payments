@@ -57,7 +57,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 ## Invoicing Tools
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
-- **[crypto-pay-cli](https://github.com/kleogeos/crypto-pay-cli)** — Open-source, zero-dependency CLI that generates a USDT (TRC20) invoice with a payment address and QR code from a JSON file. Self-hosted, no account or platform fee.
+- **[crypto-pay-cli](https://github.com/kleogeos/crypto-pay-cli)** — Open-source, zero-dependency CLI that checks TRC20 USDT payments against a wallet address and generates a receive QR code, using only TronGrid's public API. Self-hosted, no account or platform fee.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
 
 ## Choosing a Method
