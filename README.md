@@ -39,6 +39,7 @@ Getting paid in **USDT** (Tether) — a stablecoin pegged 1:1 to the US dollar �
 - **[PayrollFlow](https://payrollflow.io)** — Withdraw your balance to USDT on TRC20 / ERC20 / BEP20 with free withdrawals and a human review step before each payout.
 - **Self-custody wallets** (Trust Wallet, MetaMask, Tron wallets) — You hold the keys and receive USDT directly on-chain. Always match the network to the address.
 - **Exchange accounts** (Binance, OKX, Bybit, etc.) — Receive USDT, convert, and cash out to local currency where supported.
+- **[usdt-rub-cli](https://github.com/kleogeos/usdt-rub-cli)** — Open-source CLI that estimates the RUB you actually receive after converting USDT via P2P, an exchanger, or a custom spread, so you can compare the effective rate before cashing out. Zero dependencies.
 
 ## Understanding USDT Networks (TRC20 / ERC20 / BEP20)
 
