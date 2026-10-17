@@ -59,6 +59,7 @@ See the full breakdown in the **[USDT Payments Handbook](https://github.com/Payr
 
 - **[Freelance Invoice Templates](https://github.com/PayrollFlow/freelance-invoice-templates)** — Free, ready-to-use invoice templates (including a USDT/crypto invoice) for international clients.
 - **[crypto-pay-cli](https://github.com/kleogeos/crypto-pay-cli)** — Open-source, zero-dependency CLI that checks TRC20 USDT payments against a wallet address and generates a receive QR code, using only TronGrid's public API. Self-hosted, no account or platform fee.
+- **[freelance-late-fee-cli](https://github.com/kleogeos/freelance-late-fee-cli)** — Open-source, zero-dependency CLI that computes the late fee owed on an overdue invoice and which reminder stage (friendly/firm/notice/final) to send next.
 - **Wave / Zoho Invoice / Invoice Ninja** — Free or low-cost invoicing apps for recurring billing.
 
 ## Choosing a Method
